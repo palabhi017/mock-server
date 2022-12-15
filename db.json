@@ -1,5 +1,5 @@
 {
-    "users": 
+    "users": [
       {
         "id": 1,
         "name": "Gertrudis Tatterton",
@@ -60,5 +60,5 @@
         "age": 20,
         "email": "cnorssister9@mayoclinic.com"
       }
-    
+    ]
   }
